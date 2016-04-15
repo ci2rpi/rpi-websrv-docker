@@ -1,0 +1,4 @@
+{
+    "Port": 7777,
+    "ContentDirectory": "/rpi-websrv-data/web"
+}
